@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore reports
+reports/
+
+# Ignore screenshots
+screenshots/
+
+# Ignore IDE files
+.vscode/
+.idea/
