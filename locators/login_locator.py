@@ -2,7 +2,6 @@ from selenium.webdriver.common.by import By
 
 class LoginLocator:
 
-    NAME_INPUT = (By.ID, "name")
     EMAIL_INPUT = (By.ID, "email")
     PASSWORD_INPUT = (By.ID, "password")
     REMEMBER_ME = (By.ID, "remember")
